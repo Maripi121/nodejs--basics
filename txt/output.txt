@@ -1,0 +1,1 @@
+text to write into files using js into ts

@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with USB receiver",
+    "price": 29.99,
+    "quantity": 150,
+    "brand": "TechBrand"
+  },
+  {
+    "title": "Mechanical Keyboard",
+    "description": "Mechanical keyboard with RGB backlighting",
+    "price": 89.99,
+    "quantity": 75,
+    "brand": "GamerGear"
+  },
+  {
+    "title": "Bluetooth Speaker",
+    "description": "Portable Bluetooth speaker with high-quality sound",
+    "price": 49.99,
+    "quantity": 200,
+    "brand": "SoundWave"
+  },
+  {
+    "title": "4K Monitor",
+    "description": "27-inch 4K UHD monitor with HDR support",
+    "price": 399.99,
+    "quantity": 50,
+    "brand": "UltraView"
+  },
+  {
+    "title": "Smartphone",
+    "description": "Latest model smartphone with 128GB storage",
+    "price": 699.99,
+    "quantity": 120,
+    "brand": "PhoneMaster"
+  }
+]
